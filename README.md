@@ -1,2 +1,2 @@
-# TypingMaster
+# 快打高手 / TypingMaster
  
