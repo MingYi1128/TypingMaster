@@ -1,0 +1,3 @@
+C:/Users/muras/Desktop/MurasakiKey/Project/Programming/ClionProjects/TypingMaster/cmake-build-debug/CMakeFiles/TypingMasterSimple.dir
+C:/Users/muras/Desktop/MurasakiKey/Project/Programming/ClionProjects/TypingMaster/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/muras/Desktop/MurasakiKey/Project/Programming/ClionProjects/TypingMaster/cmake-build-debug/CMakeFiles/rebuild_cache.dir
